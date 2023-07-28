@@ -4,9 +4,8 @@
   * Python
   * Javascript
   * C/C++
-  * MQTT
-  * Firebase
-  * Flutter
+  * IoT
+  * SQL
   * AWS
 
 ---
