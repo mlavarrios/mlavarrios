@@ -5,7 +5,7 @@
   * Javascript
   * C/C++
   * IoT
-  * SQL
+  * Databases
   * AWS
 
 ---
